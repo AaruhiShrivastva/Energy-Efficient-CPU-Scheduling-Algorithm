@@ -39,7 +39,8 @@ The project aims to design and implement a CPU scheduling algorithm that optimiz
 
 
 ## 📷 Screenshots
-![image]()
+![OUTPUT](https://github.com/user-attachments/assets/4d75cc95-c284-4f02-a7ec-742e137356bf)
+
 
 ---
 
